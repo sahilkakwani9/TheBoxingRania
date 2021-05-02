@@ -1,0 +1,39 @@
+body{
+    background-color: #f4eee8;
+}
+.Prominent{
+    text-align: center;
+}
+h1{
+    margin: 50px auto 50px auto;
+    font-family: 'Press Start 2p';
+    text-shadow: royalblue;
+    color: #393e46;
+}
+h2{
+    font-family: 'Freckle Face';
+    color: #3edbf0;
+}
+.text{
+    margin: 30px auto;
+}
+.blue{
+    color: blue;
+    font-family: Monoton;
+}
+.red{
+    color: red;
+    font-family: Monoton;
+}
+img{
+    width: 30%;
+    height: 30%;
+    padding: 0;
+}
+.flip {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+.middle{
+    margin-bottom: 50px;
+}
