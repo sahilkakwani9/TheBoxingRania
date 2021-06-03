@@ -68,3 +68,9 @@ $(document).keydown(function(){
         play_sound();
     }
 })
+$(document).addEventListener('touchstart',function(){
+    if(!gameOver){
+        check_defeat();
+        play_sound();
+    }
+})
